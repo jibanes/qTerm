@@ -4,12 +4,12 @@
 	box-sizing: border-box;
 }
 body{
-	width: 350px;
+	width: 468px;
 	border-radius: 17px;
 	/* height: 251px; */
 	overflow: auto;
 	background: #DDD;
-  color: #00EA1C;
+	color: #00EA1C;
 }
 body .mainCont{
 	border-radius: 10px;
@@ -24,11 +24,12 @@ body .heading{
 	padding: 2px;
 }
 div.box{
-	height: 253px;
+	height: 256px;
 }
 #writer{
 	font-family: monospace;
 	font-size: 11px;
+	width: 470px;
 	line-height: 14px;
 	overflow: auto;
 	height: 212px;
@@ -37,11 +38,11 @@ div.box{
 	margin-top: 42px;
 }
 input {
-    width: 325px;
+    width: 96%;
     position: fixed;
     font-family: monospace;
-    margin-left: 10px;
-    margin-top: 9px;
+    margin-left: 2%;
+    margin-top: 3%;
     border: 0;
     outline: 0;
     background: transparent;
